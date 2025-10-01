@@ -1,1 +1,1 @@
-This is free scripts for Roblox game development 
+This is free scripts and examples for Roblox game development 
