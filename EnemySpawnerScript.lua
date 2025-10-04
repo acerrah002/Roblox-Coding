@@ -33,6 +33,7 @@ local function spawnEnemy()
 		end
 		local spawnCFrame = shrineCFrame + offsets[i]
 		clone:PivotTo(spawnCFrame)
+		clone.Parent = workspace
 	end
 end
 
